@@ -1,0 +1,13 @@
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.deps.json
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.dll
+/Users/dayanacarranza/Desktop/CIT365/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.pdb
